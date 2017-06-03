@@ -4,42 +4,22 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="pic_crop.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I'm a postdoc at the University of Hawaii at Manoa studying Solar energetic particles with the AMS experiment. I got my Ph.D. at UCLA working with Rene Ong to study astrophysical objects in the Cygnus region of the Galaxy with VERITAS.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+## Research Interests
 
-## Research Interest
+cosmic rays, particle astrophysics, astrophysics experiment, high energy physics experiment, heliophysics, gamma-ray astrophysics, neutrino physics
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## Outreach Activities
+
+HI STAR at UH Manoa -- mentored middle and high school students in cosmic ray physics experiments; developed a tutorial for neutron monitor data analysis
+
+Expanding Your Horizons at UH Manoa -- led workshop for middle school aged girls titled "Mission to Mars: Space Radiation"
+
+Women in Physics and Astronomy (WiPA) at UCLA -- founded group; started mentoring program
+        
+Exploring Your Universe at UCLA -- Merchandise Coordinator, 2015; Developed and led VERITAS booth, 2013, 2014, 2015
 
 ## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
